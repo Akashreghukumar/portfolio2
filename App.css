@@ -1,0 +1,92 @@
+
+.navbar{
+  background-color: #0a192f;
+  height: 80px;
+  width: 100%;
+  font-size: 30px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+}
+
+body{
+  background-color: #0a192f;
+  color: white;
+}
+
+.homedesign{
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+  
+  padding: 140px;
+  color: aliceblue;
+  
+}
+
+.aboutdesign{
+  padding: 100px;
+  width: 70%;
+
+}
+
+
+
+.skillsdesign{
+  padding: 100px;
+  text-align: center;
+  color:aliceblue ;
+  display: flex;
+  justify-content: space-around;
+  
+
+}
+
+.workdesign{
+  display:flex;
+  margin: 20px;
+  align-items: center;
+  justify-content: space-around;
+
+}
+
+.container{
+  height: 50px;
+  width: 50%px;
+  color: black;
+  background-color: beige;
+  margin: 30px;
+  
+  
+}
+
+.cardbutton{
+  display: flex;
+  justify-content: space-between;
+}
+
+.form{
+  display: grid;
+  padding: 40px;
+  width: 50%;
+  /* margin: 30px; */
+  
+  align-items: center;
+}
+
+.savebutton{
+  background-color: aqua;
+  margin: 20px;
+  color: #0a192f;
+}
+
+.contactsbutton{
+
+  margin: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  
+
+}
